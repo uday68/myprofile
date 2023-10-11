@@ -1,6 +1,7 @@
 # myprofile
 This is my first repository
 <br>
-author - uday
+author - uday 
+some discription
 
 
