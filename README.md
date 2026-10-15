@@ -91,6 +91,45 @@ I build practical products and infrastructure systems across **AI/ML, distribute
 
 My projects span Go, Python, TypeScript, JavaScript, Kotlin, HTML, Docker, Make, and more. Browse the complete collection on [my GitHub profile](https://github.com/uday68?tab=repositories).
 
+## Current repository snapshot
+
+Snapshot date: **October 15, 2026**  
+Public repositories considered: **29**
+
+| Repository | Primary language | Open issues | Status |
+| --- | --- | ---: | --- |
+| [actip](https://github.com/uday68/actip) | TypeScript | 0 | Active |
+| [Ageis](https://github.com/uday68/Ageis) | Python | 0 | Active |
+| [bizgrow](https://github.com/uday68/bizgrow) | JavaScript | 0 | Active |
+| [commandgrid](https://github.com/uday68/commandgrid) | JavaScript | 0 | Needs attention |
+| [CommandGrid-Theme](https://github.com/uday68/CommandGrid-Theme) | Jupyter Notebook | 0 | Needs attention |
+| [dupa](https://github.com/uday68/dupa) | Python | 0 | Needs attention |
+| [indexium](https://github.com/uday68/indexium) | Python | 0 | Active |
+| [kaggle_csrio-biomass-](https://github.com/uday68/kaggle_csrio-biomass-) | N/A | 0 | Needs attention |
+| [mindhangar](https://github.com/uday68/mindhangar) | TypeScript | 0 | Needs attention |
+| [ml-learning](https://github.com/uday68/ml-learning) | N/A | 0 | Active |
+| [multihub](https://github.com/uday68/multihub) | TypeScript | 0 | Needs attention |
+| [myprofile](https://github.com/uday68/myprofile) | N/A | 1 | Active |
+| [protect_and_justice](https://github.com/uday68/protect_and_justice) | Kotlin | 0 | Needs attention |
+| [pulse-collab-suite](https://github.com/uday68/pulse-collab-suite) | TypeScript | 0 | Needs attention |
+| [QueryLens](https://github.com/uday68/QueryLens) | N/A | 0 | Active |
+| [Quick-Eats](https://github.com/uday68/Quick-Eats) | N/A | 0 | Active |
+| [razorpay-recovery-engine](https://github.com/uday68/razorpay-recovery-engine) | Python | 0 | Active |
+| [RestoreForge](https://github.com/uday68/RestoreForge) | Go | 0 | Active |
+| [shield-spark-guardian](https://github.com/uday68/shield-spark-guardian) | TypeScript | 0 | Needs attention |
+| [skills-introduction-to-github](https://github.com/uday68/skills-introduction-to-github) | N/A | 1 | Needs attention |
+| [teamColab](https://github.com/uday68/teamColab) | TypeScript | 0 | Needs attention |
+| [UMTPS](https://github.com/uday68/UMTPS) | HTML | 0 | Needs attention |
+| [usip](https://github.com/uday68/usip) | Python | 0 | Active |
+| [ValutMesh](https://github.com/uday68/ValutMesh) | Makefile | 0 | Active |
+| [virtual-tryon](https://github.com/uday68/virtual-tryon) | N/A | 0 | Needs attention |
+| [visionary-assistant](https://github.com/uday68/visionary-assistant) | Python | 0 | Needs attention |
+| [visual_struct](https://github.com/uday68/visual_struct) | HTML | 0 | Needs attention |
+| [VyaparMitra](https://github.com/uday68/VyaparMitra) | TypeScript | 0 | Needs attention |
+| [winscope](https://github.com/uday68/winscope) | Python | 0 | Active |
+
+Status rule (metadata-only): **Active** = repository has a push in the 180 days before the snapshot date; **Needs attention** = last push older than 180 days; **No activity data** = push timestamp unavailable.
+
 ## Let's connect
 
 I'm open to thoughtful engineering conversations, collaboration, product ideas, and opportunities to build reliable software that solves meaningful problems.
